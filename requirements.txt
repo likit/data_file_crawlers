@@ -1,2 +1,4 @@
-requests==2.28.1
-tomli==2.0.1
+requests==2.33.1
+FreeSimpleGUI==5.2.0.post1
+PyInstaller==6.19.0
+pywin32==311
